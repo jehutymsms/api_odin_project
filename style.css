@@ -1,3 +1,13 @@
 body{
-    background-color: azure;
+    background-color: grey;
+}
+
+.imageContainer{
+    background-color: black;
+    height: 500px;
+    width: 500px;
+}
+img{
+    max-height: 100%;
+    max-width: 100%;
 }
